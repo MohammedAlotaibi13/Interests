@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "040717DB11D08CECD1926E9CBB4EC2CD4648C639",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "040717DB11D08CECD1926E9CBB4EC2CD4648C639" : 9223372036854775807,
+    "1A51485EDF767E294DAAE4CD45488607E8017C65" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D2806E7C-3715-4243-89E3-A27F6A71EE14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "040717DB11D08CECD1926E9CBB4EC2CD4648C639" : "Interest\/",
+    "1A51485EDF767E294DAAE4CD45488607E8017C65" : "Virtual_Tourist\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Interest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Interest\/Interest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MohammedAlotaibi13\/Interest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "040717DB11D08CECD1926E9CBB4EC2CD4648C639"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/MohammedAlotaibi13\/Virtual_Tourist.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1A51485EDF767E294DAAE4CD45488607E8017C65"
+    }
+  ]
+}
