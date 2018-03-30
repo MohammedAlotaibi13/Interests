@@ -3,9 +3,9 @@ InterestLoan is app help who want to compsre between loans that provide by a ban
 
 ## FrameWorks uses
 <ul>
-<li> **Firebase** to store the data of bank and to handle the authentication by google sign in and eamil and password  </li>
-<li>**Core Data** to save the news of blommberg localy and to save the data of the bank if the user click save button </li>
-<li>**Bloomber API** to update latest news about business </li>
+<li> Firebase to store the data of bank and to handle the authentication by google sign in and eamil and password  </li>
+<li>Core Data to save the news of blommberg localy and to save the data of the bank if the user click save button </li>
+<li>Bloomber API to update latest news about business </li>
 
 </ul>
 # InterestLoans
